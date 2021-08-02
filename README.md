@@ -1,11 +1,8 @@
-# Intro to R and RStudio
+Intro to R and RStudio
 ===
 
-<div style="background-color:#e0ffe0;
-padding: 1em;
-border: 1px solid grey;">
-
-## Overview
+Overview
+---
 
 This module provides learners with an approachable introduction to the R language and the RStudio IDE, including hands-on practice appropriate for someone who has never used R or RStudio.
 
@@ -23,24 +20,25 @@ This module provides learners with an approachable introduction to the R languag
 * Explain what a data frame is
 * Use the Environment tab within RStudio to examine a data frame
 
-</div>
 
-## Contents
+Contents
+---
 
 Feel free to check these off as you go!  
 
-* <input type="checkbox"> :computer: 2 minute hands-on activity: [Lesson Preparation](lesson_preparation.md)
-* <input type="checkbox"> :book: 5 minute read: [What is R?](what_is_r.md)
-* <input type="checkbox"> :book: 10 minute read: [What is RStudio?](what_is_rstudio.md)
-* <input type="checkbox"> :computer: 5 minute hands-on activity: [Starting RStudio](starting_rstudio.md)
-* <input type="checkbox"> :computer: 10 minute hands-on activity: [Using a File](#using_r_script.md)
-* <input type="checkbox"> :book: 5 minute read: [Why Use R and RStudio?](why_r.md)
-* <input type="checkbox"> :computer: 5 minute hands-on activity: [RStudio Features](rstudio_features.md)
-* <input type="checkbox"> :book: 5 minute read: [Terminology](terminology.md)
-* <input type="checkbox"> *Optional* :open_file_folder: 10 minute watch/listen: [Additional Resources](additional_resources.md)
-* <input type="checkbox"> :book: 5 minute form: [Feedback](#Feedback)
+- [Lesson Preparation](lesson_preparation.md)
+- [What is R?](what_is_r.md)
+- [What is RStudio?](what_is_rstudio.md)
+- [Starting RStudio](starting_rstudio.md)
+- [Using a File](#using_r_script.md)
+- [Why Use R and RStudio?](why_r.md)
+- [RStudio Features](rstudio_features.md)
+- [Terminology](terminology.md)
+- [Additional Resources](additional_resources.md)
+- [Feedback](#Feedback)
 
-## Feedback
+Feedback
+---
 
 *5 minute feedback*
 
